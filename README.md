@@ -22,7 +22,7 @@ To run the chat application locally, follow these steps:
 2. Open a terminal or command prompt in this directory.
 3. Run the following command to install the necessary dependencies:
  ```bash
-   npm install
+   yarn
   ```
   
 ## Running the Application
@@ -39,7 +39,7 @@ Once the setup is complete, follow these steps to run the chat application:
 2. Run the following command to start the client-side application:
 
  ```bash
-   npm run serve
+   yarn dev
   ```
  
 3. Open your preferred web browser and visit the URL displayed in the terminal (e.g., `http://localhost:8080`).
