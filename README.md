@@ -48,4 +48,3 @@ Once the setup is complete, follow these steps to run the chat application:
 
 I welcome contributions to enhance the chat application! If you have any ideas, improvements, or bug fixes, please submit a pull request.
  
-
